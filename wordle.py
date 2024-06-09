@@ -18,6 +18,8 @@ def read_random_word():
 # word_list = words.words()
 # words_five = [word for word in word_list if len(word) == 5]
 
+# This is a fun little game that I like to play...
+
 print_menu()
 play_again = ""
 while play_again != "q":
