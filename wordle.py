@@ -45,7 +45,7 @@ while play_again != "q":
         print()
 
         if guess == word:
-            print(colored(f"Congrats, you got the wordle in {attempt} attempts", "red"))
+            print(colored(f"Congrats, you got the wordle in {attempt} attempts", "green"))
             break
         elif attempt == 7:
             print(f"Sorry the wordle was {word}")
