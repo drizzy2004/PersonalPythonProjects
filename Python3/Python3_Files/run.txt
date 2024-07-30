@@ -1,0 +1,28 @@
+M2 >>
+    python3 "./M2_Finding_Files/01_Demo_Listing_A_Directory.py"
+    python3 "./M2_Finding_Files/02_Demo_Using_String_Methods.py"
+    python3 "./M2_Finding_Files/03_Demo_Pattern_Matching_With_fnmatch.py"
+    python3 "./M2_Finding_Files/04_Demo_Advanced_Pattern_Matching.py"
+    python3 "./M2_Finding_Files/05_Demo_Pattern_Matching_With_glob.py"
+
+M3 >>
+    python3 "./M3_Working_With_Files_and_Folders/01_Demo_Getting_File_Attributes.py"
+    python3 "./M3_Working_With_Files_and_Folders/02_Demo_Traversing_A_Directory.py"
+    python3 "./M3_Working_With_Files_and_Folders/03_Demo_Copying_Files.py"
+    python3 "./M3_Working_With_Files_and_Folders/04_Demo_Moving_Files.py"
+    python3 "./M3_Working_With_Files_and_Folders/05_Demo_Renaming_Files.py"
+    python3 "./M3_Working_With_Files_and_Folders/06_Demo_Deleting_Files.py"
+
+M4 >>
+    python3 "./M4_Archiving_Files/01_Demo_Creating_A_ZIP_Archive.py"
+    python3 "./M4_Archiving_Files/02_Demo_Adding_Files_To_A_ZIP.py"
+    python3 "./M4_Archiving_Files/03_Demo_Reading_A_ZIP.py"
+    python3 "./M4_Archiving_Files/04_Demo_Extracting_A_ZIP.py"
+
+M5 >>
+    python3 "./M5_Reading_and_Writing_Files/01_Demo_Working_with_Text_Files.py"
+    python3 "./M5_Reading_and_Writing_Files/02_Demo_Working_with_CSV_Files.py"
+    python3 "./M5_Reading_and_Writing_Files/03_Demo_Working_with_XML_Files.py"
+    python3 "./M5_Reading_and_Writing_Files/04_Demo_Working_with_JSON_Files.py"
+    python3 "./M5_Reading_and_Writing_Files/05_Demo_Persisting_Objects.py"
+
