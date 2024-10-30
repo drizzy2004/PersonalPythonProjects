@@ -1,3 +1,5 @@
+import sys
+
 def calc_paycheck(hours):
     hourly_wage = 25
     tax_chunk = hours * hourly_wage * 0.173
@@ -5,6 +7,11 @@ def calc_paycheck(hours):
 
     return (hours * hourly_wage) - tax_chunk - investment_chunk
 
-total = calc_paycheck(42)
 
-print(f"${total}")
+if __name__ == "__main__":
+    hours = int(sys.argv[1])
+    total = calc_paycheck(hours)
+
+    print(f"${total:.2f}")
+
+
